@@ -1,0 +1,87 @@
+{
+  "reviewed": "2026-09-06",
+  "sources": [
+    {
+      "title": "NSI · August inflation flash estimate",
+      "url": "https://www.nsi.bg/en/file/37672/inflation_and_consumer_price_indices.pdf"
+    },
+    {
+      "title": "NSI · Q2 GDP flash estimate",
+      "url": "https://www.nsi.bg/index.php/en/press-release/gross-domestic-product-gdp-national-level-9117"
+    },
+    {
+      "title": "NSI · Q2 Labour Force Survey",
+      "url": "https://www.nsi.bg/en/file/37315/Press_LFS_Q022026_ENG.pdf"
+    },
+    {
+      "title": "NSI · Q2 wages and employees",
+      "url": "https://www.nsi.bg/en/file/37294/employees_and_average_wages_and_salaries.pdf"
+    },
+    {
+      "title": "ECB · Euro changeover research, 9 April 2026",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260409~cc951a0d29.en.html"
+    },
+    {
+      "title": "European Commission · May 2026 forecast",
+      "url": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Annual inflation · HICP",
+      "value": "5.1%",
+      "period": "August 2026 · Flash",
+      "note": "0.8% month-on-month. Comparable EU inflation measure.",
+      "source": 0
+    },
+    {
+      "label": "Real GDP growth",
+      "value": "+2.7%",
+      "period": "Q2 2026 · Flash",
+      "note": "Year-on-year, seasonally adjusted. +0.6% quarter-on-quarter.",
+      "source": 1
+    },
+    {
+      "label": "Unemployment",
+      "value": "3.5%",
+      "period": "Q2 2026 · Survey",
+      "note": "Down 0.1 percentage point year-on-year. Ages 15–74.",
+      "source": 2
+    },
+    {
+      "label": "Gross monthly wage",
+      "value": "€1,444",
+      "period": "Q2 2026 · Preliminary",
+      "note": "Average for employees under labour contract; +9.8% year-on-year. Not net or median pay.",
+      "source": 3
+    },
+    {
+      "label": "Employment rate",
+      "value": "70.5%",
+      "period": "Q2 2026 · Survey",
+      "note": "Ages 15–64. Down 0.5 percentage point year-on-year.",
+      "source": 2
+    },
+    {
+      "label": "National inflation · CPI",
+      "value": "5.1%",
+      "period": "August 2026 · Flash",
+      "note": "0.6% month-on-month. National basket differs from HICP.",
+      "source": 0
+    },
+    {
+      "label": "Low-income small basket",
+      "value": "+1.6%",
+      "period": "August 2026 · Flash",
+      "note": "Annual price change in the small basket for the lowest-income 20%; −0.2% monthly.",
+      "source": 0
+    },
+    {
+      "label": "Exports",
+      "value": "−2.8%",
+      "period": "Q2 2026 · Flash",
+      "note": "Year-on-year volume change, seasonally adjusted. Imports +6.9%.",
+      "source": 1
+    }
+  ]
+}

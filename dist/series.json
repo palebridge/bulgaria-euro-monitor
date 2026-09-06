@@ -1,0 +1,475 @@
+{
+  "attempted": "2026-09-06T15:47:34.560794+00:00",
+  "series": {
+    "inflation_bg": {
+      "label": "Bulgaria \u00b7 HICP inflation",
+      "unit": "Annual change, %",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?freq=M&geo=BG&coicop18=TOTAL&unit=RCH_A&sinceTimePeriod=2025-01",
+      "points": [
+        {
+          "period": "2025-01",
+          "value": 3.8,
+          "flag": ""
+        },
+        {
+          "period": "2025-02",
+          "value": 3.9,
+          "flag": ""
+        },
+        {
+          "period": "2025-03",
+          "value": 4.0,
+          "flag": ""
+        },
+        {
+          "period": "2025-04",
+          "value": 2.8,
+          "flag": ""
+        },
+        {
+          "period": "2025-05",
+          "value": 2.9,
+          "flag": ""
+        },
+        {
+          "period": "2025-06",
+          "value": 3.1,
+          "flag": ""
+        },
+        {
+          "period": "2025-07",
+          "value": 3.4,
+          "flag": ""
+        },
+        {
+          "period": "2025-08",
+          "value": 3.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-09",
+          "value": 4.0,
+          "flag": ""
+        },
+        {
+          "period": "2025-10",
+          "value": 3.8,
+          "flag": ""
+        },
+        {
+          "period": "2025-11",
+          "value": 3.7,
+          "flag": ""
+        },
+        {
+          "period": "2025-12",
+          "value": 3.5,
+          "flag": ""
+        },
+        {
+          "period": "2026-01",
+          "value": 2.3,
+          "flag": ""
+        },
+        {
+          "period": "2026-02",
+          "value": 2.1,
+          "flag": ""
+        },
+        {
+          "period": "2026-03",
+          "value": 2.8,
+          "flag": ""
+        },
+        {
+          "period": "2026-04",
+          "value": 6.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-05",
+          "value": 6.3,
+          "flag": ""
+        },
+        {
+          "period": "2026-06",
+          "value": 5.2,
+          "flag": ""
+        },
+        {
+          "period": "2026-07",
+          "value": 4.4,
+          "flag": ""
+        },
+        {
+          "period": "2026-08",
+          "value": 5.1,
+          "flag": "e"
+        }
+      ],
+      "fetched": "2026-09-06T15:47:34.560794+00:00",
+      "source_updated": "2026-09-01T23:00:00+0200",
+      "error": null
+    },
+    "inflation_ea": {
+      "label": "Euro area (21 countries) \u00b7 HICP inflation",
+      "unit": "Annual change, %; fixed EA21 composition",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?freq=M&geo=EA21&coicop18=TOTAL&unit=RCH_A&sinceTimePeriod=2025-01",
+      "points": [
+        {
+          "period": "2025-01",
+          "value": 2.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-02",
+          "value": 2.3,
+          "flag": ""
+        },
+        {
+          "period": "2025-03",
+          "value": 2.2,
+          "flag": ""
+        },
+        {
+          "period": "2025-04",
+          "value": 2.2,
+          "flag": ""
+        },
+        {
+          "period": "2025-05",
+          "value": 1.9,
+          "flag": ""
+        },
+        {
+          "period": "2025-06",
+          "value": 2.0,
+          "flag": ""
+        },
+        {
+          "period": "2025-07",
+          "value": 2.0,
+          "flag": ""
+        },
+        {
+          "period": "2025-08",
+          "value": 2.1,
+          "flag": ""
+        },
+        {
+          "period": "2025-09",
+          "value": 2.2,
+          "flag": ""
+        },
+        {
+          "period": "2025-10",
+          "value": 2.1,
+          "flag": ""
+        },
+        {
+          "period": "2025-11",
+          "value": 2.1,
+          "flag": ""
+        },
+        {
+          "period": "2025-12",
+          "value": 2.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-01",
+          "value": 1.7,
+          "flag": ""
+        },
+        {
+          "period": "2026-02",
+          "value": 1.9,
+          "flag": ""
+        },
+        {
+          "period": "2026-03",
+          "value": 2.6,
+          "flag": ""
+        },
+        {
+          "period": "2026-04",
+          "value": 3.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-05",
+          "value": 3.2,
+          "flag": ""
+        },
+        {
+          "period": "2026-06",
+          "value": 2.8,
+          "flag": ""
+        },
+        {
+          "period": "2026-07",
+          "value": 3.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-08",
+          "value": 3.2,
+          "flag": "e"
+        }
+      ],
+      "fetched": "2026-09-06T15:47:34.560794+00:00",
+      "source_updated": "2026-09-01T23:00:00+0200",
+      "error": null
+    },
+    "food_bg": {
+      "label": "Bulgaria \u00b7 Food and non-alcoholic beverages",
+      "unit": "Annual HICP change, %",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?freq=M&geo=BG&coicop18=CP01&unit=RCH_A&sinceTimePeriod=2025-01",
+      "points": [
+        {
+          "period": "2025-01",
+          "value": 4.6,
+          "flag": ""
+        },
+        {
+          "period": "2025-02",
+          "value": 4.6,
+          "flag": ""
+        },
+        {
+          "period": "2025-03",
+          "value": 5.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-04",
+          "value": 5.9,
+          "flag": ""
+        },
+        {
+          "period": "2025-05",
+          "value": 6.7,
+          "flag": ""
+        },
+        {
+          "period": "2025-06",
+          "value": 7.4,
+          "flag": ""
+        },
+        {
+          "period": "2025-07",
+          "value": 7.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-08",
+          "value": 6.7,
+          "flag": ""
+        },
+        {
+          "period": "2025-09",
+          "value": 6.2,
+          "flag": ""
+        },
+        {
+          "period": "2025-10",
+          "value": 6.3,
+          "flag": ""
+        },
+        {
+          "period": "2025-11",
+          "value": 5.4,
+          "flag": ""
+        },
+        {
+          "period": "2025-12",
+          "value": 6.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-01",
+          "value": 4.3,
+          "flag": ""
+        },
+        {
+          "period": "2026-02",
+          "value": 4.2,
+          "flag": ""
+        },
+        {
+          "period": "2026-03",
+          "value": 3.9,
+          "flag": ""
+        },
+        {
+          "period": "2026-04",
+          "value": 5.1,
+          "flag": ""
+        },
+        {
+          "period": "2026-05",
+          "value": 4.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-06",
+          "value": 2.3,
+          "flag": ""
+        },
+        {
+          "period": "2026-07",
+          "value": 1.2,
+          "flag": ""
+        }
+      ],
+      "fetched": "2026-09-06T15:47:34.560794+00:00",
+      "source_updated": "2026-09-01T23:00:00+0200",
+      "error": null
+    },
+    "gdp_bg": {
+      "label": "Bulgaria \u00b7 Real GDP growth",
+      "unit": "Year-on-year change, %; seasonally and calendar adjusted",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/namq_10_gdp?freq=Q&geo=BG&na_item=B1GQ&unit=CLV_PCH_SM&s_adj=SCA&sinceTimePeriod=2025-Q1",
+      "points": [
+        {
+          "period": "2025-Q1",
+          "value": 3.5,
+          "flag": "p"
+        },
+        {
+          "period": "2025-Q2",
+          "value": 3.4,
+          "flag": "p"
+        },
+        {
+          "period": "2025-Q3",
+          "value": 3.1,
+          "flag": "p"
+        },
+        {
+          "period": "2025-Q4",
+          "value": 2.9,
+          "flag": "p"
+        },
+        {
+          "period": "2026-Q1",
+          "value": 2.9,
+          "flag": "p"
+        },
+        {
+          "period": "2026-Q2",
+          "value": 2.7,
+          "flag": "p"
+        }
+      ],
+      "fetched": "2026-09-06T15:47:34.560794+00:00",
+      "source_updated": "2026-09-04T23:00:00+0200",
+      "error": null
+    },
+    "jobs_bg": {
+      "label": "Bulgaria \u00b7 Unemployment",
+      "unit": "Share of active population, %; total age group, seasonally adjusted",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_m?freq=M&geo=BG&age=TOTAL&sex=T&unit=PC_ACT&s_adj=SA&sinceTimePeriod=2025-01",
+      "points": [
+        {
+          "period": "2025-01",
+          "value": 3.7,
+          "flag": ""
+        },
+        {
+          "period": "2025-02",
+          "value": 3.6,
+          "flag": ""
+        },
+        {
+          "period": "2025-03",
+          "value": 3.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-04",
+          "value": 3.4,
+          "flag": ""
+        },
+        {
+          "period": "2025-05",
+          "value": 3.4,
+          "flag": ""
+        },
+        {
+          "period": "2025-06",
+          "value": 3.6,
+          "flag": ""
+        },
+        {
+          "period": "2025-07",
+          "value": 3.8,
+          "flag": ""
+        },
+        {
+          "period": "2025-08",
+          "value": 3.7,
+          "flag": ""
+        },
+        {
+          "period": "2025-09",
+          "value": 3.6,
+          "flag": ""
+        },
+        {
+          "period": "2025-10",
+          "value": 3.5,
+          "flag": ""
+        },
+        {
+          "period": "2025-11",
+          "value": 3.3,
+          "flag": ""
+        },
+        {
+          "period": "2025-12",
+          "value": 3.1,
+          "flag": ""
+        },
+        {
+          "period": "2026-01",
+          "value": 3.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-02",
+          "value": 3.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-03",
+          "value": 3.0,
+          "flag": ""
+        },
+        {
+          "period": "2026-04",
+          "value": 3.2,
+          "flag": ""
+        },
+        {
+          "period": "2026-05",
+          "value": 3.4,
+          "flag": ""
+        },
+        {
+          "period": "2026-06",
+          "value": 3.5,
+          "flag": ""
+        },
+        {
+          "period": "2026-07",
+          "value": 3.6,
+          "flag": ""
+        }
+      ],
+      "fetched": "2026-09-06T15:47:34.560794+00:00",
+      "source_updated": "2026-09-04T23:00:00+0200",
+      "error": null
+    }
+  }
+}
